@@ -2,8 +2,6 @@
 
 This project processes 3D LIDAR data to analyze the profiles of vehicles passing under a scanning gantry, simulating a real-world highway detection system.
 
-![image](https://github.com/user-attachments/assets/2562be4a-e587-486a-ae5c-545a5a2b9800)
-
 ![image](https://github.com/user-attachments/assets/e9657a62-faea-4dd0-b2cc-4e23b72e48b9)
 
 ---
