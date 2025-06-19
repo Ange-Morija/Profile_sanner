@@ -37,8 +37,8 @@ project-root/
 
 1. **Clone the repository**
 
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone [https://github.com/Ange-Morija/Profile_sanner.git]
+   cd Profile_sanner
 
 2. **Install dependencies**
 
@@ -72,7 +72,7 @@ See `requirements.txt`. Main dependencies:
 
 ## 🙋‍♂️ Authors
 
-- ANge-Morija KOUAMENAN [University of BME Budapest]
+- Ange-Morija KOUAMENAN [University of BME Budapest]
 - 2025
 
 ---
